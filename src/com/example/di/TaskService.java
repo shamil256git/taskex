@@ -1,5 +1,5 @@
 package com.example.di;
 
-public class TaskService {
+public interface TaskService {
     void performTask();
 }
